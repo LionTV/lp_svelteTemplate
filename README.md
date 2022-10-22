@@ -1,3 +1,5 @@
+#Svelte Lua Template
+
 To trigger (client-side):
 ```lua
 TriggerEvent('lp_svelteTest:show_Interface')
