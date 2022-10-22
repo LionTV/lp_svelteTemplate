@@ -1,4 +1,4 @@
-#Svelte Lua Template
+## Svelte Lua Template
 
 To trigger (client-side):
 ```lua
